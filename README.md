@@ -1,1 +1,1 @@
-This is Todo project
+This is Todo list project
